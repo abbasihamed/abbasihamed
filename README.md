@@ -12,8 +12,8 @@
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
 
 ## Learning:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://www.vectorlogo.zone/logos/python/python-icon.svg)" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/img/icon-white.svg" target="_blank"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPi" width="40" height="40"/> </a>
 <br><br>
 
 
